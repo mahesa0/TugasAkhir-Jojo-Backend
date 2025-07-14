@@ -1,6 +1,6 @@
 🎯 SAW Backend - Sistem Pendukung Keputusan
 
-Ini adalah repository backend untuk Sistem Pendukung Keputusan Pemilihan Jurusan di SMK menggunakan metode Simple Additive Weighting (SAW). Aplikasi ini dibangun dengan Express.js dan menggunakan MongoDB untuk menyimpan data.
+Ini adalah repository backend untuk Sistem Pendukung Keputusan Pemilihan Beasiswa di SMK menggunakan metode Simple Additive Weighting (SAW). Aplikasi ini dibangun dengan Express.js dan menggunakan MongoDB untuk menyimpan data.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
