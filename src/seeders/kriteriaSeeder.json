@@ -1,0 +1,52 @@
+{
+  "kriteria": [
+    {
+      "nilai": 85,
+      "minat": 90,
+      "bakat": 80,
+      "peluangKerja": 85
+    },
+    {
+      "nilai": 75,
+      "minat": 85,
+      "bakat": 90,
+      "peluangKerja": 80
+    },
+    {
+      "nilai": 80,
+      "minat": 75,
+      "bakat": 85,
+      "peluangKerja": 90
+    },
+    {
+      "nilai": 90,
+      "minat": 80,
+      "bakat": 75,
+      "peluangKerja": 85
+    },
+    {
+      "nilai": 85,
+      "minat": 85,
+      "bakat": 90,
+      "peluangKerja": 80
+    },
+    {
+      "nilai": 80,
+      "minat": 90,
+      "bakat": 85,
+      "peluangKerja": 85
+    },
+    {
+      "nilai": 90,
+      "minat": 85,
+      "bakat": 80,
+      "peluangKerja": 90
+    },
+    {
+      "nilai": 85,
+      "minat": 80,
+      "bakat": 85,
+      "peluangKerja": 85
+    }
+  ]
+}

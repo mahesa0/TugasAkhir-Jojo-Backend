@@ -1,0 +1,32 @@
+{
+  "alternatif": [
+    {
+      "Kode": "DKV",
+      "Keterangan": "Desain Komunikasi Visual"
+    },
+    {
+      "Kode": "AK",
+      "Keterangan": "Akuntansi"
+    },
+    {
+      "Kode": "MP",
+      "Keterangan": "Manajemen Perkantoran"
+    },
+    {
+      "Kode": "TKRO",
+      "Keterangan": "Teknik Kendaraan Ringan Otomotif"
+    },
+    {
+      "Kode": "TBSM",
+      "Keterangan": "Teknik Bisnis Sepeda Motor"
+    },
+    {
+      "Kode": "TKJ",
+      "Keterangan": "Teknik Komputer dan Jaringan"
+    },
+    {
+      "Kode": "RPL",
+      "Keterangan": "Rekayasa Perangkat Lunak"
+    }
+  ]
+}

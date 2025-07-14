@@ -1,0 +1,29 @@
+{
+  "hasilSaw": [
+    {
+      "username": "user1",
+      "namaJurusan": "Rekayasa Perangkat Lunak",
+      "nilai": 0.85
+    },
+    {
+      "username": "user2",
+      "namaJurusan": "Teknik Komputer dan Jaringan",
+      "nilai": 0.82
+    },
+    {
+      "username": "user3",
+      "namaJurusan": "Desain Komunikasi Visual",
+      "nilai": 0.88
+    },
+    {
+      "username": "user4",
+      "namaJurusan": "Akuntansi",
+      "nilai": 0.79
+    },
+    {
+      "username": "user5",
+      "namaJurusan": "Teknik Kendaraan Ringan Otomotif",
+      "nilai": 0.83
+    }
+  ]
+}
