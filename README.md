@@ -8,9 +8,9 @@ ________________________________________________________________________________
 
 🔐 Autentikasi pengguna (register & login)
 
-📋 Manajemen data kriteria dan alternatif (BELUM DIBUAT)
+📋 Manajemen data kriteria dan alternatif
 
-📊 Perhitungan metode SAW secara dinamis  (BELUM DIBUAT
+📊 Perhitungan metode SAW secara dinamis
 
 📡 RESTful API untuk dihubungkan dengan frontend (Electron/React)
 
